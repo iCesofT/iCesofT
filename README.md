@@ -38,7 +38,7 @@ Dedicated to delivering robust architecture and application modernization initia
 
 ---
 
-### 📦 Featured Projects
+### 📦 Featured Projects
 
 - [RadarCOVID](https://github.com/RadarCOVID). The official COVID-19 exposure notification app for Spain.
 - [European Federation Gateway Service (EFGS)](https://github.com/eu-federation-gateway-service). The official European solution for the interoperability between national backend servers of decentralised contact tracing applications to combat COVID-19.
